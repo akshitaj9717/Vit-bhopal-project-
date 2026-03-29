@@ -25,8 +25,7 @@ Created profiles on GitHub, LinkedIn, and HackerRank to build a professional onl
 Solved a beginner coding problem on HackerRank and created a Google Form quiz on digital literacy.
 
 🔗 Google Form Link: 
-
-https://docs.google.com/forms/d/1CTVx9NzB_68GFFyvNW43hrcaX0VMMfh5OO_8dpF8Vz8/edit
+https://docs.google.com/forms/d/e/1FAIpQLSfapH-ZWViLntu2CccMbfJwu_S6qxLUNZAnz9bRPSfOmeiRRw/viewform?usp=header
 
 
 ###  Task 4: Email Etiquette
